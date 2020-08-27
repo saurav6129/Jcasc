@@ -1,0 +1,10 @@
+#this configuration
+jenkins:
+  numExecutors:3
+  systemMessage:"Hello World"
+  scmCheckoutRetryCount:4
+  mode:"NORMAL"
+
+
+
+        
